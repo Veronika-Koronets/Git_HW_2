@@ -54,9 +54,10 @@ $ git branch
   Postman
   SQL
 * main
-
+```
 
 ## 2. kv@kvPC MINGW64 /d/github_lesson/HW_2/Git_HW_2 (main)
+```
 $ git push origin --all
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/Veronika-Koronets/Git_HW_2.git
@@ -67,7 +68,7 @@ To https://github.com/Veronika-Koronets/Git_HW_2.git
  * [new branch]      Mobile_testing -> Mobile_testing
  * [new branch]      Postman -> Postman
  * [new branch]      SQL -> SQL
-
+```
 
 ## 3. 
 ```
@@ -85,5 +86,5 @@ $ git branch
   Postman
   SQL
   main
-
+```
 
