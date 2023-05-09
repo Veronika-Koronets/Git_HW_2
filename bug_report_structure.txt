@@ -1,0 +1,36 @@
+kv@kvPC MINGW64 /d/github_lesson/HW_2/Git_HW_2 (Bug_reports)
+$ cat > bug_report_structure.txt
+1. Number
+2. Severity
+3. Priority
+4. Title
+5. Environment
+6. Precondition
+7. Steps to reproduce (STR)
+8. Expected result (ER)
+9. Actual result (AR)
+10. Attachment (link to video)
+11. Postcondition (optional)
+[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A1. Number
+2. Severity
+3. Priority
+4. Title
+5. Environment
+6. Precondition
+7. Steps to reproduce (STR)
+8. Expected result (ER)
+9. Actual result (AR)
+10. Attachment (link to video)
+11. Postcondition (optional)
+[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[D[A[A[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[A[C[C[A[C[C[C[C[[A[C[C[C[C[C[C[A[C[C[C[C[C[C[C[A[C[C[C[C[C[A[A1. Number
+2. Severity
+3. Priority
+4. Title
+5. Environment
+6. Precondition
+7. Steps to reproduce (STR)
+8. Expected result (ER)
+9. Actual result (AR)
+10. Attachment (link to video)
+11. Postcondition (optional)
+
