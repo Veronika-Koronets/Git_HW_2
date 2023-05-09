@@ -86,5 +86,20 @@ $ git branch
   Postman
   SQL
   main
+  
+kv@kvPC MINGW64 /d/github_lesson/HW_2/Git_HW_2 (Bug_reports)
+$ cat > bug_report_structure.txt
+1. Number
+2. Severity
+3. Priority
+4. Title
+5. Environment
+6. Precondition
+7. Steps to reproduce (STR)
+8. Expected result (ER)
+9. Actual result (AR)
+10. Attachment (link to video)
+11. Postcondition (optional)
+ 
 ```
 
